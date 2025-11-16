@@ -39,7 +39,7 @@ A polished React Native (Expo) application demonstrating core mobile development
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Alex-rn-eng/Expo-Hello-Metal-Assessment.git
-   cd hello-metal
+   cd Expo-Hello-Metal-Assessment
    ```
 
 2. **Install dependencies**
